@@ -1,0 +1,498 @@
+2021-03-18 17:07:34,715 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:07:39,866 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:07:40,124 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:07:45,406 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:09:40,607 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:09:45,756 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:09:45,870 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:09:46,016 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:09:51,078 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:09:51,253 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:09:51,284 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:21:06,719 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:21:11,842 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:21:14,985 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:21:15,460 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:21:15,460 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:21:20,590 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:21:20,590 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:21:23,775 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:21:23,775 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:21:28,056 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:21:28,056 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:21:28,056 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:21:33,195 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:21:33,195 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:21:33,195 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:21:33,309 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:21:33,309 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:21:33,309 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:21:33,497 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:21:33,497 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:21:33,497 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:21:38,541 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:21:38,541 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:21:38,541 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:21:38,715 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:21:38,715 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:21:38,715 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:21:38,744 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:21:38,744 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:21:38,744 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:26:49,583 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:26:54,677 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:26:57,784 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:26:58,327 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:26:58,327 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:27:03,405 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:27:03,405 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:27:06,542 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:27:06,542 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:27:10,917 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:27:10,917 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:27:10,917 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:27:16,083 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:27:16,083 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:27:16,083 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:27:16,214 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:27:16,214 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:27:16,214 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:27:16,382 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:27:16,382 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:27:16,382 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:27:21,441 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:27:21,441 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:27:21,441 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:27:21,702 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:27:21,702 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:27:21,702 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:27:21,735 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:27:21,735 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:27:21,735 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:29:38,774 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:29:43,902 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:29:47,052 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:29:47,455 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:29:47,455 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:29:52,572 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:29:52,572 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:29:55,763 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:29:55,763 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:29:59,893 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:29:59,893 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:29:59,893 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 17:30:05,079 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:30:05,079 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:30:05,079 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 17:30:05,196 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:30:05,196 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:30:05,196 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 17:30:05,348 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:30:05,348 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:30:05,348 :INFO : utilities.BaseClass :searching for india
+2021-03-18 17:30:10,387 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:30:10,387 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:30:10,387 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 17:30:10,570 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:30:10,570 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:30:10,570 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 17:30:10,601 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:30:10,601 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:30:10,601 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 17:31:13,582 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:31:18,702 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:31:21,832 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:31:22,266 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:31:22,266 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 17:31:27,358 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:31:27,358 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 17:31:30,546 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 17:31:30,546 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 18:12:43,423 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 18:12:48,565 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 18:12:51,702 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 18:12:52,159 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 18:12:52,159 :INFO : utilities.BaseClass :firstname is entered
+2021-03-18 18:12:57,275 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 18:12:57,275 :INFO : utilities.BaseClass :lastname is entered
+2021-03-18 18:13:00,459 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 18:13:00,459 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-18 18:13:06,442 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 18:13:06,442 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 18:13:06,442 :INFO : utilities.BaseClass :getting all card titles
+2021-03-18 18:13:11,578 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 18:13:11,578 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 18:13:11,578 :INFO : utilities.BaseClass :click on blackberry
+2021-03-18 18:13:11,696 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 18:13:11,696 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 18:13:11,696 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-18 18:13:11,841 :INFO : utilities.BaseClass :searching for india
+2021-03-18 18:13:11,841 :INFO : utilities.BaseClass :searching for india
+2021-03-18 18:13:11,841 :INFO : utilities.BaseClass :searching for india
+2021-03-18 18:13:16,917 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 18:13:16,917 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 18:13:16,917 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-18 18:13:17,107 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 18:13:17,107 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 18:13:17,107 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-18 18:13:17,136 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 18:13:17,136 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-18 18:13:17,136 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-19 09:21:32,063 :INFO : utilities.BaseClass :firstname is entered
+2021-03-19 09:21:37,182 :INFO : utilities.BaseClass :lastname is entered
+2021-03-19 09:21:40,303 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-19 09:21:40,699 :INFO : utilities.BaseClass :firstname is entered
+2021-03-19 09:21:40,699 :INFO : utilities.BaseClass :firstname is entered
+2021-03-19 09:21:45,786 :INFO : utilities.BaseClass :lastname is entered
+2021-03-19 09:21:45,786 :INFO : utilities.BaseClass :lastname is entered
+2021-03-19 09:21:48,953 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-19 09:21:48,953 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-19 09:21:55,773 :INFO : utilities.BaseClass :getting all card titles
+2021-03-19 09:21:55,773 :INFO : utilities.BaseClass :getting all card titles
+2021-03-19 09:21:55,773 :INFO : utilities.BaseClass :getting all card titles
+2021-03-19 09:22:00,911 :INFO : utilities.BaseClass :click on blackberry
+2021-03-19 09:22:00,911 :INFO : utilities.BaseClass :click on blackberry
+2021-03-19 09:22:00,911 :INFO : utilities.BaseClass :click on blackberry
+2021-03-19 09:22:01,028 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-19 09:22:01,028 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-19 09:22:01,028 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-19 09:22:01,215 :INFO : utilities.BaseClass :searching for india
+2021-03-19 09:22:01,215 :INFO : utilities.BaseClass :searching for india
+2021-03-19 09:22:01,215 :INFO : utilities.BaseClass :searching for india
+2021-03-19 09:22:06,271 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-19 09:22:06,271 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-19 09:22:06,271 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-19 09:22:06,445 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-19 09:22:06,445 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-19 09:22:06,445 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-19 09:22:06,475 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-19 09:22:06,475 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-19 09:22:06,475 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-22 12:00:52,199 :INFO : utilities.BaseClass :firstname is entered
+2021-03-22 12:00:57,301 :INFO : utilities.BaseClass :lastname is entered
+2021-03-22 12:01:00,434 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-22 12:01:00,984 :INFO : utilities.BaseClass :firstname is entered
+2021-03-22 12:01:00,984 :INFO : utilities.BaseClass :firstname is entered
+2021-03-22 12:01:06,085 :INFO : utilities.BaseClass :lastname is entered
+2021-03-22 12:01:06,085 :INFO : utilities.BaseClass :lastname is entered
+2021-03-22 12:01:09,243 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-22 12:01:09,243 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-22 12:01:15,557 :INFO : utilities.BaseClass :getting all card titles
+2021-03-22 12:01:15,557 :INFO : utilities.BaseClass :getting all card titles
+2021-03-22 12:01:15,557 :INFO : utilities.BaseClass :getting all card titles
+2021-03-22 12:01:20,720 :INFO : utilities.BaseClass :click on blackberry
+2021-03-22 12:01:20,720 :INFO : utilities.BaseClass :click on blackberry
+2021-03-22 12:01:20,720 :INFO : utilities.BaseClass :click on blackberry
+2021-03-22 12:01:20,851 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-22 12:01:20,851 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-22 12:01:20,851 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-22 12:01:21,093 :INFO : utilities.BaseClass :searching for india
+2021-03-22 12:01:21,093 :INFO : utilities.BaseClass :searching for india
+2021-03-22 12:01:21,093 :INFO : utilities.BaseClass :searching for india
+2021-03-22 12:01:26,140 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-22 12:01:26,140 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-22 12:01:26,140 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-22 12:01:26,390 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-22 12:01:26,390 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-22 12:01:26,390 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-22 12:01:26,433 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-22 12:01:26,433 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-22 12:01:26,433 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-22 12:39:51,150 :INFO : utilities.BaseClass :firstname is entered
+2021-03-22 12:39:56,263 :INFO : utilities.BaseClass :lastname is entered
+2021-03-22 12:39:59,380 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-22 12:39:59,817 :INFO : utilities.BaseClass :firstname is entered
+2021-03-22 12:39:59,817 :INFO : utilities.BaseClass :firstname is entered
+2021-03-22 12:40:04,908 :INFO : utilities.BaseClass :lastname is entered
+2021-03-22 12:40:04,908 :INFO : utilities.BaseClass :lastname is entered
+2021-03-22 12:40:08,091 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-22 12:40:08,091 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-22 12:40:12,323 :INFO : utilities.BaseClass :getting all card titles
+2021-03-22 12:40:12,323 :INFO : utilities.BaseClass :getting all card titles
+2021-03-22 12:40:12,323 :INFO : utilities.BaseClass :getting all card titles
+2021-03-22 12:40:17,500 :INFO : utilities.BaseClass :click on blackberry
+2021-03-22 12:40:17,500 :INFO : utilities.BaseClass :click on blackberry
+2021-03-22 12:40:17,500 :INFO : utilities.BaseClass :click on blackberry
+2021-03-22 12:40:17,616 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-22 12:40:17,616 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-22 12:40:17,616 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-22 12:40:17,766 :INFO : utilities.BaseClass :searching for india
+2021-03-22 12:40:17,766 :INFO : utilities.BaseClass :searching for india
+2021-03-22 12:40:17,766 :INFO : utilities.BaseClass :searching for india
+2021-03-22 12:40:22,833 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-22 12:40:22,833 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-22 12:40:22,833 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-22 12:40:23,032 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-22 12:40:23,032 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-22 12:40:23,032 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-22 12:40:23,062 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-22 12:40:23,062 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-22 12:40:23,062 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-22 17:58:30,295 :INFO : utilities.BaseClass :getting all card titles
+2021-03-22 17:58:35,502 :INFO : utilities.BaseClass :click on blackberry
+2021-03-22 17:58:35,634 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-22 17:58:35,844 :INFO : utilities.BaseClass :searching for india
+2021-03-22 17:58:40,873 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-22 17:58:41,078 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-22 17:58:41,111 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:31:07,000 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:31:12,162 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:31:15,342 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:31:15,715 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:31:15,715 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:31:20,835 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:31:20,835 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:31:24,042 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:31:24,042 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:31:30,015 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:31:30,015 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:31:30,015 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:31:35,196 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:31:35,196 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:31:35,196 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:31:35,331 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:31:35,331 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:31:35,331 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:31:35,498 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:31:35,498 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:31:35,498 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:31:40,578 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:31:40,578 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:31:40,578 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:31:40,769 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:31:40,769 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:31:40,769 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:31:40,799 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:31:40,799 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:31:40,799 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:32:58,543 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:33:03,665 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:33:06,817 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:33:07,212 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:33:07,212 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:33:12,334 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:33:12,334 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:33:15,523 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:33:15,523 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:33:21,227 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:33:21,227 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:33:21,227 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:33:26,376 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:33:26,376 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:33:26,376 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:33:26,492 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:33:26,492 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:33:26,492 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:33:26,644 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:33:26,644 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:33:26,644 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:33:31,729 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:33:31,729 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:33:31,729 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:33:31,967 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:33:31,967 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:33:31,967 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:33:31,996 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:33:31,996 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:33:31,996 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:45:27,807 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:45:32,922 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:45:36,093 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:45:36,465 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:45:36,465 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:45:41,561 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:45:41,561 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:45:44,714 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:45:44,714 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:45:50,389 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:45:50,389 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:45:50,389 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:45:55,545 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:45:55,545 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:45:55,545 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:45:55,662 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:45:55,662 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:45:55,662 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:45:55,812 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:45:55,812 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:45:55,812 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:46:00,908 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:46:00,908 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:46:00,908 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:46:01,121 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:46:01,121 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:46:01,121 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:46:01,149 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:46:01,149 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:46:01,149 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:47:00,458 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:47:05,558 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:47:08,692 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:47:09,073 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:47:09,073 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 12:47:14,208 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:47:14,208 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 12:47:17,372 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:47:17,372 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 12:47:22,721 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:47:22,721 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:47:22,721 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 12:47:27,862 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:47:27,862 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:47:27,862 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 12:47:27,975 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:47:27,975 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:47:27,975 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 12:47:28,127 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:47:28,127 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:47:28,127 :INFO : utilities.BaseClass :searching for india
+2021-03-23 12:47:33,191 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:47:33,191 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:47:33,191 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 12:47:33,398 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:47:33,398 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:47:33,398 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 12:47:33,426 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:47:33,426 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:47:33,426 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 12:54:23,149 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 15:33:11,728 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 15:33:16,843 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 15:33:20,007 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 15:33:20,409 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 15:33:20,409 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 15:33:25,503 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 15:33:25,503 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 15:33:28,683 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 15:33:28,683 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 15:33:32,213 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 15:33:32,213 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 15:33:32,213 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 15:33:37,356 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 15:33:37,356 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 15:33:37,356 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 15:33:37,474 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 15:33:37,474 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 15:33:37,474 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 15:33:37,624 :INFO : utilities.BaseClass :searching for india
+2021-03-23 15:33:37,624 :INFO : utilities.BaseClass :searching for india
+2021-03-23 15:33:37,624 :INFO : utilities.BaseClass :searching for india
+2021-03-23 15:33:42,694 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 15:33:42,694 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 15:33:42,694 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 15:33:42,903 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 15:33:42,903 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 15:33:42,903 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 15:33:42,932 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 15:33:42,932 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 15:33:42,932 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 15:38:48,195 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 15:38:53,286 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 15:38:56,394 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 15:38:56,874 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 15:38:56,874 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 15:39:01,951 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 15:39:01,951 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 15:39:05,092 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 15:39:05,092 :CRITICAL : utilities.BaseClass :gender is selected
+2021-03-23 15:39:10,677 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 15:39:10,677 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 15:39:10,677 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 15:39:15,827 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 15:39:15,827 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 15:39:15,827 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 15:39:15,956 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 15:39:15,956 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 15:39:15,956 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 15:39:16,131 :INFO : utilities.BaseClass :searching for india
+2021-03-23 15:39:16,131 :INFO : utilities.BaseClass :searching for india
+2021-03-23 15:39:16,131 :INFO : utilities.BaseClass :searching for india
+2021-03-23 15:39:21,155 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 15:39:21,155 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 15:39:21,155 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 15:39:21,357 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 15:39:21,357 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 15:39:21,357 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 15:39:21,394 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 15:39:21,394 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 15:39:21,394 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 17:32:03,327 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 17:32:03,327 :INFO : utilities.BaseClass :getting all card titles
+2021-03-23 17:32:08,512 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 17:32:08,512 :INFO : utilities.BaseClass :click on blackberry
+2021-03-23 17:32:08,628 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 17:32:08,628 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-23 17:32:08,778 :INFO : utilities.BaseClass :searching for india
+2021-03-23 17:32:08,778 :INFO : utilities.BaseClass :searching for india
+2021-03-23 17:32:13,867 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 17:32:13,867 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-23 17:32:14,086 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 17:32:14,086 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-23 17:32:14,112 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 17:32:14,112 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-23 18:11:36,825 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 18:11:41,996 :INFO : utilities.BaseClass :lastname is entered
+2021-03-23 18:13:09,334 :INFO : utilities.BaseClass :firstname is entered
+2021-03-23 18:13:14,459 :INFO : utilities.BaseClass :lastname is entered
+2021-03-24 09:30:46,395 :INFO : utilities.BaseClass :firstname is entered
+2021-03-24 09:30:51,493 :INFO : utilities.BaseClass :lastname is entered
+2021-03-24 09:31:00,397 :INFO : utilities.BaseClass :getting all card titles
+2021-03-24 09:31:00,397 :INFO : utilities.BaseClass :getting all card titles
+2021-03-24 09:31:05,572 :INFO : utilities.BaseClass :click on blackberry
+2021-03-24 09:31:05,572 :INFO : utilities.BaseClass :click on blackberry
+2021-03-24 09:31:05,686 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-24 09:31:05,686 :ERROR : utilities.BaseClass :blackberry not selected
+2021-03-24 09:31:05,833 :INFO : utilities.BaseClass :searching for india
+2021-03-24 09:31:05,833 :INFO : utilities.BaseClass :searching for india
+2021-03-24 09:31:10,875 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-24 09:31:10,875 :CRITICAL : utilities.BaseClass :network is slow
+2021-03-24 09:31:11,049 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-24 09:31:11,049 :WARNING : utilities.BaseClass :payment may not succeed
+2021-03-24 09:31:11,077 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-24 09:31:11,077 :INFO : utilities.BaseClass :message received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
